@@ -19,5 +19,9 @@ class TrueFalseInIF {
         else{
             printf "false"
         }
+
+        if(true){
+            println("hello")
+        }
     }
 }
